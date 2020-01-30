@@ -1,0 +1,74 @@
+﻿  Application.cpp
+  Board.cpp
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\transformcomponent.h(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\transformcomponent.h(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(149): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(150): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(182): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(186): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\cameracomponent.h(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(85): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\gameplaycomponents.h(224): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\ecs.h(154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\uicomponent.h(29): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int&>(int &,int &)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\ecs.h(154): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\gameplaycomponents.h(49): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int>(int &,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  Collision.cpp
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\transformcomponent.h(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\transformcomponent.h(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(149): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(150): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(182): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(185): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\spritecomponent.h(186): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\cameracomponent.h(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\gameplaycomponents.h(224): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(85): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\collidercomponent.h(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\ecs.h(154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\uicomponent.h(29): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int&>(int &,int &)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\ecs.h(154): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\tuomassuo\source\lauta engine\lautaengine\source\lauta\ecs\gameplaycomponents.h(49): note: see reference to function template instantiation 'T &Entity::addComponent<TransformComponent,int&,int>(int &,int &&)' being compiled
+          with
+          [
+              T=TransformComponent
+          ]
+  main.cpp
+  Generating Code...
+  LautaEngine.vcxproj -> C:\Users\TuomasSuo\source\Lauta Engine\x64\Debug\LautaEngine.exe
